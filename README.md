@@ -102,22 +102,6 @@ My passion for technology is fueled by a relentless drive to explore the latest 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElviinThomasEldho&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElviinThomasEldho&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ElviinThomasEldho&theme=radical&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElviinThomasEldho&theme=radical&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 ### 🚀 [CelestiSky - NASA Space Apps 2024](https://github.com/ElviinThomasEldho/nasa-exosky-frontend)
