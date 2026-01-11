@@ -106,13 +106,13 @@ My passion for technology is fueled by a relentless drive to explore the latest 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElviinThomasEldho&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElviinThomasEldho&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElviinThomasEldho&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElviinThomasEldho&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=ElviinThomasEldho&theme=radical&hide_border=true" alt="GitHub Streak"/>
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ElviinThomasEldho&theme=radical&hide_border=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElviinThomasEldho&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElviinThomasEldho&theme=radical&hide_border=true&area=true)
 
 </div>
 
